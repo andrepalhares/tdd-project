@@ -1,0 +1,2 @@
+O Teste Funcional não requer conhecimento prévio sobre o sistema ou escopo que está sendo testado, enquanto os Testes de Unidade necessitam que o desenvolvedor tenha domínio do que está sendo feito naquele trecho de código.
+Outra diferença está relacionada ao momento que cada teste é executado: o Teste de Unidade é executado enquanto o código ainda está em processo de desenvolvimento, enquanto o Teste Funcional ocorre ao final desse processo.
