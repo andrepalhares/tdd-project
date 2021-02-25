@@ -1,0 +1,3 @@
+O ciclo de desenvolvimento apresentado nos diagramas consiste em escrever um teste funcional para alguma funcionalidade presente no sistema, rodar seus testes e se passar com sucesso, aplicamos uma refatoração caso seja necessário e se não passar, teremos de escrever um código em baby steps.
+
+Nessa etapa, devemos escrever um teste unitário para aquele mínimo trecho de código que será introduzido e se esses testes passarem, aplicamos uma refatoração caso seja necessário e reinicia o ciclo e se não passar, escrevemos mais um trecho mínimo de código até que os testes passem.
